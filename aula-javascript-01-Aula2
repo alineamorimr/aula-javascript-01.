@@ -1,0 +1,59 @@
+ /* Aula2
+
+ Criar duas variáveis usando a palavra-chave var.
+Criar duas variáveis usando a palavra-chave let.
+Criar duas constantes usando a palavra-chave const.
+*/
+
+//palavra chave var
+var numero_inteiro = 10;
+console.log(numero_inteiro);
+
+var numero_negativo = -5
+console.log(numero_negativo)
+
+//palavra chave let
+
+let nome_aluno = "Aline";
+console.log(nome_aluno);
+
+let idade=20;
+console.log(idade);
+
+// palavra chave const 
+
+const cpf = 99999999999
+console.log(cpf);
+
+const numero_fone= 12345678910;
+console.log (numero_fone);
+
+ /*
+ Criar duas variáveis usando a palavra-chave var.
+Criar duas variáveis usando a palavra-chave let.
+Criar duas constantes usando a palavra-chave const.
+*/
+
+//palavra chave var
+var numero_inteiro = 10;
+console.log(numero_inteiro);
+
+var numero_negativo = -5
+console.log(numero_negativo)
+
+//palavra chave let
+
+let nome_aluno = "Aline";
+console.log(nome_aluno);
+
+let idade=20;
+console.log(idade);
+
+// palavra chave const 
+
+const cpf = 99999999999
+console.log(cpf);
+
+const numero_fone= 12345678910;
+console.log (numero_fone);
+
